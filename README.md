@@ -29,11 +29,14 @@ Run Tests to check correct `recipes` have been downloaded
 
 		kitchen verify
 		
-Also:
+To Create, converge and verify sequentially
 
 		kitchen test
 		
-Create, converge and verify will run sequentially
+
+To login to the virtual machine
+
+		kitchen login
 
 
 
