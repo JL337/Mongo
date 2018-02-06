@@ -1,14 +1,21 @@
-# Mongo Cookbook
+# MongoDB Cookbook
 
 ## Purpose
-Ipsum Lorem
+The purpose of this cookbook is to set up a MongoDB instance using Chef.
 
-## Functionality
+## Requirements
+(https://www.google.com)
+
+<https://downloads.chef.io/chefdk>
+[test](https://www.virtualbox.org/wiki/Downloads)
+
+https://www.vagrantup.com/downloads.html
 
 
-## Implementation
+## Useage
 
-The functionality has been implemented using the following features:
+* Clone down this repository to a directory of your choice, eg. `mongo-cookbook`
+* 
 
-* Ruby
+
 
