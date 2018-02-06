@@ -33,7 +33,7 @@ Also:
 
 		kitchen test
 		
-This does create, converge and verify 
+Create, converge and verify will run sequentially
 
 
 
